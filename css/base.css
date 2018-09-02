@@ -96,6 +96,7 @@ div#painel2{
         margin: 80px auto auto 10px;
     }
     div#painel1{
+        left: auto;
         position: absolute;
         margin: 200px auto auto 10px;
     }
