@@ -37,8 +37,10 @@ div#apresentacoes{
     margin: 100px auto auto 140px;
 }
 div#painel1{
+    left: 1000px;
+    text-align: left;
     position: absolute;
-    margin: 30px auto auto 1400px;
+    margin: 30px auto auto auto;
 }
 div#painel2{
     position: absolute;
